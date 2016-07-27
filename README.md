@@ -1,0 +1,2 @@
+# POS_RES_CREATOR
+POS机Json数据生成工具
